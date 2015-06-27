@@ -1,5 +1,5 @@
 {
-  "name": "scroll-bar-width",
+  "name": "scrollbar-width",
   "version": "1.0.0",
   "description": "Returns scrollbar width in browser.",
   "main": "index.js",
