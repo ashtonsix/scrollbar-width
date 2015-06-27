@@ -1,7 +1,7 @@
 {
   "name": "scrollbar-width",
   "version": "1.0.0",
-  "description": "Returns scrollbar width in browser.",
+  "description": "Returns scrollbar width in browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
