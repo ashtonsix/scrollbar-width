@@ -1,7 +1,7 @@
 Scrollbar Width
 ===============
-Returns scrollbar width in browser. Inspired by [http://davidwalsh.name/detect-scrollbar-width](this article) from David Walsh.
+Returns scrollbar width in browser. Inspired by [this article](http://davidwalsh.name/detect-scrollbar-width) from David Walsh.
 
 Fork if you want AMD/commonJS/whatever compatiability.
 
-[./LICENSE.md](ISC license)
+[ISC license](./LICENSE.md)
